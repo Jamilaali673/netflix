@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(59, 25, 25);
+}
+#juu{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    display: flex;
+}
+.story{
+    display: flex;
+    justify-content: space-between;
+}
+.pics{
+    display: flex;
+}
+button{
+    fill color: red;
+    
+}
