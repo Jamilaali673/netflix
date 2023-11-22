@@ -1,6 +1,3 @@
-body{
-    background-color: rgb(59, 25, 25);
-}
 #juu{
     display: flex;
     justify-content: space-between;
@@ -30,4 +27,17 @@ button{
 }
 .me{
     margin: 50px;
+}
+#one{
+    background-image:linear-gradient(black,rgb(58, 2, 2));
+}
+#two{
+    background-image:linear-gradient(black,rgb(58, 2, 2)); 
+}
+#three{
+    background-image:linear-gradient(black,rgb(58, 2, 2));  
+}
+.net2{
+    display: flex;
+    justify-content: space-between;
 }
