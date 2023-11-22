@@ -17,5 +17,17 @@ img{
 }
 button{
     fill color: red;
-    
+
+}
+.pics2{
+    display: flex;
+}
+.pics3{
+    display: flex;
+}
+.net2{
+    margin: 50px;
+}
+.me{
+    margin: 50px;
 }
